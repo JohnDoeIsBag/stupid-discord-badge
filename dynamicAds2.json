@@ -1,0 +1,18 @@
+{
+    "login": {
+        "img": "img/zap_login.png",
+        "url": ""
+    },
+    "main": {
+        "img": "img/zap_main.png",
+        "url": ""
+    },
+    "loginZap": {
+        "img": "img/zap_login.png",
+        "url": ""
+    },
+    "mainZap": {
+        "img": "img/zap_main.png",
+        "url": ""
+    }
+}
